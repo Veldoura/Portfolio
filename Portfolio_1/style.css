@@ -1,0 +1,31 @@
+
+body,
+.navbar,
+.jumbotron {
+    background-color: #E7F2F8;
+}
+
+.jumbotron {
+    min-height: 350px;
+}
+
+.head h1 {
+    font-weight: bold;
+}
+
+.head h3 {
+    font-weight: normal;
+}
+
+.slider h2 {
+    margin-bottom: 10px;
+}
+
+section {
+    min-height: 250px;
+}
+
+section .subs {
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
